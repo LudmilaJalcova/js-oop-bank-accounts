@@ -1,3 +1,3 @@
 # js-oop-bank-accounts
 
-[demo](./docs/index.html)
+[Demo](https://ludmilajalcova.github.io/js-oop-bank-accounts)
